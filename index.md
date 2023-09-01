@@ -6,7 +6,12 @@
 
 It's Aziz here, hailing from Nangarhar, Afghanistan. I am a self-proclaimed extrovert with a pinch of introvert traits. I completed my  graduation in Pakistan and my Master’s in Turkey and completed an advanced master's in Sustainable Water Resources at ETH Zurich. I am a hydrologist by profession.
 
-I am learning Eart Data Analytics, as I am quite new to Earth Data Science. I
+I am learning Eart Data Analytics, as I am quite new to Earth Data Science.
+
+**Education**
+- B.Sc. Civil Engineering
+- MS Hydraulics
+- MAS Sustainable Water Resources
 
 **Likes**
 - Coffee ( I like coffee because I have to like coffee)
