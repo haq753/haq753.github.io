@@ -1,6 +1,6 @@
 title: Aziz Mujahid's Awesome Portfolio Website
 description: About me!
-logo: img/headshot.png
+logo: img/1517481111312
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
